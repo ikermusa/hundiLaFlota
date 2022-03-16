@@ -59,7 +59,7 @@ public class barcoMain {
 				System.out.println("Agua");
 				intentos++;
 			}
-			
+			//TODO NO SALE DEL BUCLE
 			
 			
 		} while (intentos!=5);
